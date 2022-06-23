@@ -24,7 +24,7 @@
     "css-loader": "^2.1.1",
     "esm": "^3.2.25",
     "file-loader": "^3.0.1",
-    "jsdom": "^14.1.0",
+    "jsdom": "^16.5.0",
     "leaflet": "^1.5.1",
     "mini-css-extract-plugin": "^0.5.0",
     "mocha": "^6.1.4",
